@@ -1,0 +1,6 @@
+title,name
+startDateTime,start
+dueDateTime,finish
+percentComplete,percentComplete
+bucketId,bucketId
+assignments, null
